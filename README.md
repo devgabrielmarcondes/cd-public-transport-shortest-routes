@@ -1,4 +1,14 @@
-# Grafos e Rotas Ótimas para Transporte Público
+# FATEC- Grafos e Rotas Ótimas para Transporte Público
+
+## Matéria
+- Processamento de Linguagem Natural
+
+## Integrantes
+- Gabriel Marcondes dos Santos
+- Gustavo Ferreira Gonçalves Lima
+- Gustavo Miranda da Silva Araújo
+- Mariana Miyuki Suzuki Kobayashi
+- Marcelo Sopa 
 
 ## Descrição do Projeto
 
@@ -25,7 +35,10 @@ Este projeto desenvolve um sistema de otimização de rotas para transporte púb
 ## Metodologia
 
 ### 1. Coleta e Preparação dos Dados
-- **Fonte dos Dados**: OpenStreetMap (OSM) para dados da malha viária
+- **Fonte dos Dados**: 
+   - Geosampa - https://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx#
+   - Coletamos os dados dos pontos de São Paulo
+
 - **Área de Estudo**: Região central de São Paulo (raio de 5km)
 - **Pontos de Ônibus**: Dataset em formato GeoPackage com localização dos pontos
 
